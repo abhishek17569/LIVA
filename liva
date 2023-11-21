@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+APPDIR='/usr/lib/liva'
+
+export PATH="${APPDIR}/bin:${APPDIR}/usr/local/bin:${PATH}"
+export LD_LIBRARY_PATH="${APPDIR}/lib:${APPDIR}/usr/local/lib:${LD_LIBRARY_PATH}"
+
+export PYTHONPATH="/usr/lib/liva/"
+
+"${APPDIR}/usr/local/bin/python3" /usr/lib/liva/. "$@"

@@ -1,0 +1,602 @@
+[2023-10-03 23:11:40,798 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: python3-tk
+[2023-10-03 23:11:44,472 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: sox
+[2023-10-03 23:11:57,498 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: alsa-tools
+[2023-10-03 23:12:06,398 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: wget
+[2023-10-03 23:12:07,280 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: espeak
+[2023-10-03 23:12:19,439 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: jq
+[2023-10-03 23:12:31,041 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libstdc++6
+[2023-10-03 23:12:49,559 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: perl
+[2023-10-03 23:13:12,021 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libportaudio2
+[2023-10-03 23:13:13,019 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libatlas3-base
+[2023-10-03 23:13:29,228 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libffi-dev
+[2023-10-03 23:13:30,244 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: rfkill
+[2023-10-03 23:13:39,377 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: kdeconnect
+[2023-10-03 23:15:28,356 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: xdotools
+[2023-10-03 23:15:28,983 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:17:01,855 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:19:32,151 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: python3-tk
+[2023-10-03 23:19:33,055 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: sox
+[2023-10-03 23:19:34,004 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: alsa-tools
+[2023-10-03 23:19:34,907 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: wget
+[2023-10-03 23:19:35,914 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: espeak
+[2023-10-03 23:19:36,928 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: jq
+[2023-10-03 23:19:37,835 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libstdc++6
+[2023-10-03 23:19:38,704 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: perl
+[2023-10-03 23:19:39,608 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libportaudio2
+[2023-10-03 23:19:40,558 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libatlas3-base
+[2023-10-03 23:19:41,413 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libffi-dev
+[2023-10-03 23:19:42,293 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: rfkill
+[2023-10-03 23:19:43,189 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: kdeconnect
+[2023-10-03 23:19:44,064 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: xdotools
+[2023-10-03 23:19:44,651 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:20:08,591 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:20:52,320 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: python3-tk
+[2023-10-03 23:20:53,396 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: sox
+[2023-10-03 23:20:54,293 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: alsa-tools
+[2023-10-03 23:20:55,233 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: wget
+[2023-10-03 23:20:56,161 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: espeak
+[2023-10-03 23:20:57,124 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: jq
+[2023-10-03 23:20:58,075 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libstdc++6
+[2023-10-03 23:20:59,033 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: perl
+[2023-10-03 23:20:59,998 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libportaudio2
+[2023-10-03 23:21:00,946 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libatlas3-base
+[2023-10-03 23:21:01,839 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libffi-dev
+[2023-10-03 23:21:02,781 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: rfkill
+[2023-10-03 23:21:03,689 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: kdeconnect
+[2023-10-03 23:21:04,617 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: xdotools
+[2023-10-03 23:21:05,244 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:21:22,868 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: python3-tk
+[2023-10-03 23:21:23,736 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: sox
+[2023-10-03 23:21:24,653 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: alsa-tools
+[2023-10-03 23:21:25,541 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: wget
+[2023-10-03 23:21:26,398 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: espeak
+[2023-10-03 23:21:27,302 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: jq
+[2023-10-03 23:21:28,278 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libstdc++6
+[2023-10-03 23:21:29,153 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: perl
+[2023-10-03 23:21:30,013 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libportaudio2
+[2023-10-03 23:21:30,908 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libatlas3-base
+[2023-10-03 23:21:31,793 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libffi-dev
+[2023-10-03 23:21:32,706 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: rfkill
+[2023-10-03 23:21:33,579 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: kdeconnect
+[2023-10-03 23:21:34,430 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: xdotools
+[2023-10-03 23:21:35,033 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:21:51,719 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: python3-tk
+[2023-10-03 23:21:52,624 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: sox
+[2023-10-03 23:21:53,553 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: alsa-tools
+[2023-10-03 23:21:54,399 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: wget
+[2023-10-03 23:21:55,281 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: espeak
+[2023-10-03 23:21:56,159 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: jq
+[2023-10-03 23:21:57,098 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libstdc++6
+[2023-10-03 23:21:57,932 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: perl
+[2023-10-03 23:21:58,781 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libportaudio2
+[2023-10-03 23:21:59,630 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libatlas3-base
+[2023-10-03 23:22:00,492 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libffi-dev
+[2023-10-03 23:22:01,381 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: rfkill
+[2023-10-03 23:22:02,273 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: kdeconnect
+[2023-10-03 23:22:03,201 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: xdotools
+[2023-10-03 23:22:03,829 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:22:03,829 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:22:45,178 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: python3-tk
+[2023-10-03 23:22:46,067 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: sox
+[2023-10-03 23:22:46,930 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: alsa-tools
+[2023-10-03 23:22:47,794 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: wget
+[2023-10-03 23:22:48,651 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: espeak
+[2023-10-03 23:22:49,510 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: jq
+[2023-10-03 23:22:50,420 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libstdc++6
+[2023-10-03 23:22:51,313 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: perl
+[2023-10-03 23:22:52,210 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libportaudio2
+[2023-10-03 23:22:53,162 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libatlas3-base
+[2023-10-03 23:22:54,021 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libffi-dev
+[2023-10-03 23:22:54,914 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: rfkill
+[2023-10-03 23:22:55,789 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: kdeconnect
+[2023-10-03 23:22:56,717 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: xdotools
+[2023-10-03 23:22:57,379 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:22:57,379 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:23:12,361 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: python3-tk
+[2023-10-03 23:23:13,253 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: sox
+[2023-10-03 23:23:14,202 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: alsa-tools
+[2023-10-03 23:23:15,297 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: wget
+[2023-10-03 23:23:16,224 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: espeak
+[2023-10-03 23:23:17,122 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: jq
+[2023-10-03 23:23:17,972 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libstdc++6
+[2023-10-03 23:23:18,844 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: perl
+[2023-10-03 23:23:19,749 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libportaudio2
+[2023-10-03 23:23:20,622 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libatlas3-base
+[2023-10-03 23:23:21,490 initial_setup.py->install_linux_dependencies():39]INFO: Installing essential dependency: libffi-dev
+[2023-10-03 23:23:22,359 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: rfkill
+[2023-10-03 23:23:23,193 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: kdeconnect
+[2023-10-03 23:23:24,061 initial_setup.py->install_linux_dependencies():44]INFO: Installing optional dependency: xdotools
+[2023-10-03 23:23:24,646 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:23:24,646 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:23:24,646 initial_setup.py->install_voice2json():89]INFO: Downloading and installing LibSSL
+[2023-10-03 23:23:28,400 initial_setup.py->install_voice2json():108]INFO: Error while installing Libssl Command: dpkg -i /tmp/libssl1.1_1.1.1f-1ubuntu2.19_amd64.deb failed with an error: dpkg: error: requested operation requires superuser privilege
+[2023-10-03 23:23:28,400 initial_setup.py->download_profile():51]INFO: Downloading Voice2json profile
+[2023-10-03 23:33:27,793 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:33:27,793 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:33:27,793 initial_setup.py->install_voice2json():89]INFO: Downloading and installing LibSSL
+[2023-10-03 23:33:31,331 initial_setup.py->install_voice2json():108]INFO: Error while installing Libssl Command: dpkg -i /tmp/libssl1.1_1.1.1f-1ubuntu2.19_amd64.deb failed with an error: dpkg: error: requested operation requires superuser privilege
+[2023-10-03 23:33:31,331 initial_setup.py->download_profile():51]INFO: Downloading Voice2json profile
+[2023-10-03 23:36:31,310 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:36:31,311 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:36:31,311 initial_setup.py->install_voice2json():89]INFO: Downloading and installing LibSSL
+[2023-10-03 23:36:35,052 initial_setup.py->install_voice2json():108]INFO: Error while installing Libssl Command: dpkg -i /tmp/libssl1.1_1.1.1f-1ubuntu2.19_amd64.deb failed with an error: dpkg: error: requested operation requires superuser privilege
+[2023-10-03 23:36:35,052 initial_setup.py->download_profile():51]INFO: Downloading Voice2json profile
+[2023-10-03 23:36:50,643 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:36:50,644 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:36:50,644 initial_setup.py->install_voice2json():89]INFO: Downloading and installing LibSSL
+[2023-10-03 23:36:55,595 initial_setup.py->install_voice2json():108]INFO: Error while installing Libssl Command: apt install -f failed with an error: 
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+E: Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)
+E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?
+[2023-10-03 23:36:55,596 initial_setup.py->download_profile():51]INFO: Downloading Voice2json profile
+[2023-10-03 23:37:49,715 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:37:49,716 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:37:49,716 initial_setup.py->install_voice2json():89]INFO: Downloading and installing LibSSL
+[2023-10-03 23:37:54,388 initial_setup.py->install_voice2json():99]INFO: Downloading and installing Libffi
+[2023-10-03 23:37:55,535 initial_setup.py->install_voice2json():108]INFO: Error while installing Libssl Command: dpkg -i /tmp/libffi6_3.2.1-8_amd64.deb failed with an error: dpkg: error: requested operation requires superuser privilege
+[2023-10-03 23:37:55,535 initial_setup.py->download_profile():51]INFO: Downloading Voice2json profile
+[2023-10-03 23:39:40,404 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:39:40,404 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:39:40,404 initial_setup.py->install_voice2json():99]INFO: Downloading and installing Libffi
+[2023-10-03 23:39:42,357 initial_setup.py->install_voice2json():108]INFO: Error while installing Libssl Command: dpkg -i /tmp/libffi6_3.2.1-8_amd64.deb failed with an error: dpkg: error: requested operation requires superuser privilege
+[2023-10-03 23:39:42,357 initial_setup.py->download_profile():51]INFO: Downloading Voice2json profile
+[2023-10-03 23:40:17,404 initial_setup.py->download_profile():57]INFO: Creating symlink to correct sentence file
+[2023-10-03 23:40:17,405 initial_setup.py->download_profile():63]INFO: Training model
+[2023-10-03 23:40:18,033 train_model.py->train_model():40]DEBUG: Model Training logs: Traceback (most recent call last):
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 1088, in <module>
+    asyncio.run(main())
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/runners.py", line 43, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/base_events.py", line 587, in run_until_complete
+    return future.result()
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 87, in main
+    await args.func(args, core)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 984, in train
+    await core.train_profile()
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/core.py", line 65, in train_profile
+    await train.train_profile(self.profile_dir, self.profile)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/train.py", line 183, in train_profile
+    slot_visitor=word_visitor,
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/rhasspynlu/slots.py", line 87, in get_slot_replacements
+    slot_command, universal_newlines=True
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 411, in check_output
+    **kwargs).stdout
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 488, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 800, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 1551, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/slot_programs/rhasspy/number'
+[2023-10-03 23:43:02,643 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:43:02,643 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:43:02,643 initial_setup.py->install_voice2json():99]INFO: Downloading and installing Libffi
+[2023-10-03 23:43:03,887 initial_setup.py->install_voice2json():108]INFO: Error while installing Libssl Command: dpkg -i /tmp/libffi6_3.2.1-8_amd64.deb failed with an error: dpkg: error: requested operation requires superuser privilege
+[2023-10-03 23:43:03,887 initial_setup.py->download_profile():51]INFO: Downloading Voice2json profile
+[2023-10-03 23:44:08,808 initial_setup.py->install_voice2json():74]INFO: Downloading Voice2json
+[2023-10-03 23:44:08,808 initial_setup.py->install_voice2json():80]INFO: Installing Voice2json
+[2023-10-03 23:44:08,808 initial_setup.py->install_voice2json():99]INFO: Downloading and installing Libffi
+[2023-10-03 23:44:10,378 initial_setup.py->install_voice2json():108]INFO: Error while installing Libssl Command: dpkg -i /tmp/libffi6_3.2.1-8_amd64.deb failed with an error: dpkg: error: requested operation requires superuser privilege
+[2023-10-03 23:44:10,378 initial_setup.py->download_profile():51]INFO: Downloading Voice2json profile
+[2023-10-03 23:44:10,908 initial_setup.py->download_profile():57]INFO: Creating symlink to correct sentence file
+[2023-10-03 23:44:10,908 initial_setup.py->download_profile():63]INFO: Training model
+[2023-10-03 23:44:11,469 train_model.py->train_model():40]DEBUG: Model Training logs: Traceback (most recent call last):
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 1088, in <module>
+    asyncio.run(main())
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/runners.py", line 43, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/base_events.py", line 587, in run_until_complete
+    return future.result()
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 87, in main
+    await args.func(args, core)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 984, in train
+    await core.train_profile()
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/core.py", line 65, in train_profile
+    await train.train_profile(self.profile_dir, self.profile)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/train.py", line 183, in train_profile
+    slot_visitor=word_visitor,
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/rhasspynlu/slots.py", line 87, in get_slot_replacements
+    slot_command, universal_newlines=True
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 411, in check_output
+    **kwargs).stdout
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 488, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 800, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 1551, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/slot_programs/rhasspy/number'
+[2023-10-03 23:45:25,038 playsound.py-><module>():253]WARNING: playsound is relying on another python subprocess. Please use `pip install pygobject` if you want playsound to run more efficiently.
+[2023-10-03 23:45:25,245 custom_skill.py->read_section():69]DEBUG: Reading skill.csv file to dump skills to sections dict.
+[2023-10-03 23:45:25,245 custom_skill.py->add_section_to_global_sections():39]DEBUG: Adding skill to section dictionary. Skill: ['insult', 'insult | embarrass', 'please <action> me;can you <action> me', '/home/akhil/insult_home.py::insult']
+[2023-10-03 23:48:56,127 playsound.py-><module>():253]WARNING: playsound is relying on another python subprocess. Please use `pip install pygobject` if you want playsound to run more efficiently.
+[2023-10-03 23:48:56,268 custom_skill.py->read_section():69]DEBUG: Reading skill.csv file to dump skills to sections dict.
+[2023-10-03 23:48:56,268 custom_skill.py->add_section_to_global_sections():39]DEBUG: Adding skill to section dictionary. Skill: ['insult', 'insult | embarrass', 'please <action> me;can you <action> me', '/home/akhil/insult_home.py::insult']
+[2023-10-03 23:50:07,087 playsound.py-><module>():253]WARNING: playsound is relying on another python subprocess. Please use `pip install pygobject` if you want playsound to run more efficiently.
+[2023-10-03 23:50:07,210 custom_skill.py->read_section():69]DEBUG: Reading skill.csv file to dump skills to sections dict.
+[2023-10-03 23:50:10,061 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-03 23:50:10,081 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-03 23:50:34,950 picovoice.py->detect_wake_word():38]DEBUG: Detected keyword is: hey liva
+[2023-10-03 23:50:34,952 pre_checks.py->pre_checks():55]INFO: Sentence file is changed. Training model again.
+[2023-10-03 23:50:35,520 train_model.py->train_model():40]DEBUG: Model Training logs: Traceback (most recent call last):
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 1088, in <module>
+    asyncio.run(main())
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/runners.py", line 43, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/base_events.py", line 587, in run_until_complete
+    return future.result()
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 87, in main
+    await args.func(args, core)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 984, in train
+    await core.train_profile()
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/core.py", line 65, in train_profile
+    await train.train_profile(self.profile_dir, self.profile)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/train.py", line 183, in train_profile
+    slot_visitor=word_visitor,
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/rhasspynlu/slots.py", line 87, in get_slot_replacements
+    slot_command, universal_newlines=True
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 411, in check_output
+    **kwargs).stdout
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 488, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 800, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 1551, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/slot_programs/rhasspy/number'
+[2023-10-03 23:50:35,525 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-03 23:50:35,529 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-03 23:50:35,534 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-03 23:50:35,538 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-03 23:50:35,543 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-03 23:50:35,543 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-03 23:50:35,646 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-03 23:50:36,989 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (1, 'INFO:voice2json:Automatically training profile\nTraceback (most recent call last):\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 193, in _run_module_as_main\n    "__main__", mod_spec)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 85, in _run_code\n    exec(code, run_globals)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 1088, in <module>\n    asyncio.run(main())\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/runners.py", line 43, in run\n    return loop.run_until_complete(main)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/base_events.py", line 587, in run_until_complete\n    return future.result()\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 83, in main\n    core = await get_core(args)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 804, in get_core\n    await core.train_profile()\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/core.py", line 65, in train_profile\n    await train.train_profile(self.profile_dir, self.profile)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/train.py", line 183, in train_profile\n    slot_visitor=word_visitor,\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/rhasspynlu/slots.py", line 87, in get_slot_replacements\n    slot_command, universal_newlines=True\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 411, in check_output\n    **kwargs).stdout\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 488, in run\n    with Popen(*popenargs, **kwargs) as process:\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 800, in __init__\n    restore_signals, start_new_session)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 1551, in _execute_child\n    raise child_exception_type(errno_num, err_msg, err_filename)\nPermissionError: [Errno 13] Permission denied: \'/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/slot_programs/rhasspy/number\'\nINFO:voice2json:Automatically training profile\nTraceback (most recent call last):\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 193, in _run_module_as_main\n    "__main__", mod_spec)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 85, in _run_code\n    exec(code, run_globals)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 1088, in <module>\n    asyncio.run(main())\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/runners.py", line 43, in run\n    return loop.run_until_complete(main)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/base_events.py", line 587, in run_until_complete\n    return future.result()\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 83, in main\n    core = await get_core(args)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 804, in get_core\n    await core.train_profile()\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/core.py", line 65, in train_profile\n    await train.train_profile(self.profile_dir, self.profile)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/train.py", line 183, in train_profile\n    slot_visitor=word_visitor,\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/rhasspynlu/slots.py", line 87, in get_slot_replacements\n    slot_command, universal_newlines=True\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 411, in check_output\n    **kwargs).stdout\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 488, in run\n    with Popen(*popenargs, **kwargs) as process:\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 800, in __init__\n    restore_signals, start_new_session)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 1551, in _execute_child\n    raise child_exception_type(errno_num, err_msg, err_filename)\nPermissionError: [Errno 13] Permission denied: \'/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/slot_programs/rhasspy/number\'')
+[2023-10-03 23:51:14,936 playsound.py-><module>():253]WARNING: playsound is relying on another python subprocess. Please use `pip install pygobject` if you want playsound to run more efficiently.
+[2023-10-03 23:51:15,061 custom_skill.py->read_section():69]DEBUG: Reading skill.csv file to dump skills to sections dict.
+[2023-10-03 23:51:15,109 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-03 23:51:15,116 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-03 23:51:16,364 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-03 23:51:16,368 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-03 23:51:16,374 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-03 23:51:16,378 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-03 23:51:16,383 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-03 23:51:16,383 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-03 23:51:16,457 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-03 23:51:18,075 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (1, 'INFO:voice2json:Automatically training profile\nTraceback (most recent call last):\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 193, in _run_module_as_main\n    "__main__", mod_spec)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 85, in _run_code\n    exec(code, run_globals)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 1088, in <module>\n    asyncio.run(main())\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/runners.py", line 43, in run\n    return loop.run_until_complete(main)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/base_events.py", line 587, in run_until_complete\n    return future.result()\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 83, in main\n    core = await get_core(args)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 804, in get_core\n    await core.train_profile()\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/core.py", line 65, in train_profile\n    await train.train_profile(self.profile_dir, self.profile)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/train.py", line 183, in train_profile\n    slot_visitor=word_visitor,\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/rhasspynlu/slots.py", line 87, in get_slot_replacements\n    slot_command, universal_newlines=True\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 411, in check_output\n    **kwargs).stdout\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 488, in run\n    with Popen(*popenargs, **kwargs) as process:\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 800, in __init__\n    restore_signals, start_new_session)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 1551, in _execute_child\n    raise child_exception_type(errno_num, err_msg, err_filename)\nPermissionError: [Errno 13] Permission denied: \'/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/slot_programs/rhasspy/number\'\nINFO:voice2json:Automatically training profile\nTraceback (most recent call last):\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 193, in _run_module_as_main\n    "__main__", mod_spec)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/runpy.py", line 85, in _run_code\n    exec(code, run_globals)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 1088, in <module>\n    asyncio.run(main())\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/runners.py", line 43, in run\n    return loop.run_until_complete(main)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/asyncio/base_events.py", line 587, in run_until_complete\n    return future.result()\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 83, in main\n    core = await get_core(args)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/__main__.py", line 804, in get_core\n    await core.train_profile()\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/core.py", line 65, in train_profile\n    await train.train_profile(self.profile_dir, self.profile)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/voice2json/train.py", line 183, in train_profile\n    slot_visitor=word_visitor,\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/site-packages/rhasspynlu/slots.py", line 87, in get_slot_replacements\n    slot_command, universal_newlines=True\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 411, in check_output\n    **kwargs).stdout\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 488, in run\n    with Popen(*popenargs, **kwargs) as process:\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 800, in __init__\n    restore_signals, start_new_session)\n  File "/usr/lib/voice2json/usr/local/lib/python3.7/subprocess.py", line 1551, in _execute_child\n    raise child_exception_type(errno_num, err_msg, err_filename)\nPermissionError: [Errno 13] Permission denied: \'/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/slot_programs/rhasspy/number\'')
+[2023-10-03 23:55:41,947 playsound.py-><module>():253]WARNING: playsound is relying on another python subprocess. Please use `pip install pygobject` if you want playsound to run more efficiently.
+[2023-10-03 23:55:42,095 custom_skill.py->read_section():69]DEBUG: Reading skill.csv file to dump skills to sections dict.
+[2023-10-03 23:55:42,144 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-03 23:55:42,152 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-03 23:55:48,563 picovoice.py->detect_wake_word():38]DEBUG: Detected keyword is: hey liva
+[2023-10-03 23:55:48,571 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-03 23:55:48,576 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-03 23:55:48,581 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-03 23:55:48,586 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-03 23:55:48,591 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-03 23:55:48,592 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-03 23:55:48,675 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-03 23:55:56,403 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpugxpg6ev/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.0102508 seconds in looped compilation.\nReady\n{"text": "please search song on youtube", "likelihood": 0.842768, "transcribe_seconds": 6.351998363999883, "wav_seconds": 6.72, "tokens": ["please", "search", "song", "on", "youtube"], "timeout": false, "intent": {"name": "SearchSong", "confidence": 1.0}, "entities": [{"entity": "app", "value": "youtube", "raw_value": "youtube", "source": "", "start": 22, "raw_start": 22, "end": 29, "raw_end": 29, "tokens": ["youtube"], "raw_tokens": ["youtube"]}], "raw_text": "please search song on youtube", "recognize_seconds": 0.010221699994872324, "raw_tokens": ["please", "search", "song", "on", "youtube"], "speech_confidence": null, "wav_name": null, "slots": {"app": "youtube"}}')
+[2023-10-03 23:55:57,314 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'please search song on youtube', 'likelihood': 0.842768, 'transcribe_seconds': 6.351998363999883, 'wav_seconds': 6.72, 'tokens': ['please', 'search', 'song', 'on', 'youtube'], 'timeout': False, 'intent': {'name': 'SearchSong', 'confidence': 1.0}, 'entities': [{'entity': 'app', 'value': 'youtube', 'raw_value': 'youtube', 'source': '', 'start': 22, 'raw_start': 22, 'end': 29, 'raw_end': 29, 'tokens': ['youtube'], 'raw_tokens': ['youtube']}], 'raw_text': 'please search song on youtube', 'recognize_seconds': 0.010221699994872324, 'raw_tokens': ['please', 'search', 'song', 'on', 'youtube'], 'speech_confidence': None, 'wav_name': None, 'slots': {'app': 'youtube'}}
+[2023-10-03 23:55:57,332 voice2intent.py->voice_2_intent():91]INFO: intent is SearchSong
+[2023-10-03 23:55:57,530 internet.py->is_connected():26]DEBUG: Connected to internet
+[2023-10-03 23:55:57,530 recognition.py->recognize():31]DEBUG: *********** started reading data **************
+[2023-10-03 23:55:57,531 recognition.py->recognize():37]DEBUG: *********** started recognizing data **************
+[2023-10-03 23:55:58,873 recognition.py->recognize():39]DEBUG: Recognized query before filtering is: please search song on youtube
+[2023-10-03 23:55:58,873 recognition.py->recognize():41]DEBUG: Recognized query after filtering is: please
+[2023-10-03 23:56:02,024 search.py->fetch_and_parse():153]WARNING: Unexpected renderer encountered.
+[2023-10-03 23:56:02,024 search.py->fetch_and_parse():154]WARNING: Renderer name: dict_keys(['reelShelfRenderer'])
+[2023-10-03 23:56:02,025 search.py->fetch_and_parse():155]WARNING: Search term: please
+[2023-10-03 23:56:02,025 search.py->fetch_and_parse():156]WARNING: Please open an issue at https://github.com/pytube/pytube/issues and provide this log output.
+[2023-10-03 23:56:02,025 search.py->fetch_and_parse():153]WARNING: Unexpected renderer encountered.
+[2023-10-03 23:56:02,025 search.py->fetch_and_parse():154]WARNING: Renderer name: dict_keys(['reelShelfRenderer'])
+[2023-10-03 23:56:02,025 search.py->fetch_and_parse():155]WARNING: Search term: please
+[2023-10-03 23:56:02,025 search.py->fetch_and_parse():156]WARNING: Please open an issue at https://github.com/pytube/pytube/issues and provide this log output.
+[2023-10-03 23:56:02,027 youtube.py->confidence():40]DEBUG: Youtube search. Title: maharishi aazaad started india channel  motivational video  megastar of the world  aham brahmasmi and Query: please
+[2023-10-03 23:56:02,027 youtube.py->confidence():43]DEBUG: Title chunks: ['maharishi', 'aazaad', 'started', 'india', 'channel', 'motivational', 'video', 'megastar', 'of', 'the', 'world', 'aham', 'brahmasmi']. Query chunks: ['please']
+[2023-10-03 23:56:02,027 youtube.py->confidence():53]DEBUG: Ignoring search result due to low confidence score of 0 and confidence list: []
+[2023-10-03 23:56:02,027 youtube.py->confidence():40]DEBUG: Youtube search. Title: wait for ending  hasi aayi to please ek comment mein jarur btana  youtubeshorts ytshorts and Query: please
+[2023-10-03 23:56:02,027 youtube.py->confidence():43]DEBUG: Title chunks: ['wait', 'for', 'ending', 'hasi', 'aayi', 'to', 'please', 'ek', 'comment', 'mein', 'jarur', 'btana', 'youtubeshorts', 'ytshorts']. Query chunks: ['please']
+[2023-10-03 23:56:02,027 youtube.py->confidence():50]DEBUG: Search result found. Confidence score: 1 and confidence list: ['please']
+[2023-10-03 23:56:09,513 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-03 23:56:09,519 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-03 23:56:21,924 picovoice.py->detect_wake_word():38]DEBUG: Detected keyword is: hey liva
+[2023-10-03 23:56:21,938 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-03 23:56:21,947 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-03 23:56:21,955 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-03 23:56:21,963 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-03 23:56:21,969 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-03 23:56:21,970 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-03 23:56:21,985 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-03 23:56:25,052 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpc8_6mzj0/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.008214 seconds in looped compilation.\nReady\n{"text": "search song on youtube", "likelihood": 0.99568385, "transcribe_seconds": 0.9274308700041729, "wav_seconds": 2.112, "tokens": ["search", "song", "on", "youtube"], "timeout": false, "intent": {"name": "SearchSong", "confidence": 1.0}, "entities": [{"entity": "app", "value": "youtube", "raw_value": "youtube", "source": "", "start": 15, "raw_start": 15, "end": 22, "raw_end": 22, "tokens": ["youtube"], "raw_tokens": ["youtube"]}], "raw_text": "search song on youtube", "recognize_seconds": 0.007257181001477875, "raw_tokens": ["search", "song", "on", "youtube"], "speech_confidence": null, "wav_name": null, "slots": {"app": "youtube"}}')
+[2023-10-03 23:56:25,995 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'search song on youtube', 'likelihood': 0.99568385, 'transcribe_seconds': 0.9274308700041729, 'wav_seconds': 2.112, 'tokens': ['search', 'song', 'on', 'youtube'], 'timeout': False, 'intent': {'name': 'SearchSong', 'confidence': 1.0}, 'entities': [{'entity': 'app', 'value': 'youtube', 'raw_value': 'youtube', 'source': '', 'start': 15, 'raw_start': 15, 'end': 22, 'raw_end': 22, 'tokens': ['youtube'], 'raw_tokens': ['youtube']}], 'raw_text': 'search song on youtube', 'recognize_seconds': 0.007257181001477875, 'raw_tokens': ['search', 'song', 'on', 'youtube'], 'speech_confidence': None, 'wav_name': None, 'slots': {'app': 'youtube'}}
+[2023-10-03 23:56:26,006 voice2intent.py->voice_2_intent():91]INFO: intent is SearchSong
+[2023-10-03 23:56:26,034 internet.py->is_connected():26]DEBUG: Connected to internet
+[2023-10-03 23:56:26,034 recognition.py->recognize():31]DEBUG: *********** started reading data **************
+[2023-10-03 23:56:26,035 recognition.py->recognize():37]DEBUG: *********** started recognizing data **************
+[2023-10-03 23:56:27,147 recognition.py->recognize():39]DEBUG: Recognized query before filtering is: search song on youtube
+[2023-10-03 23:56:27,147 recognition.py->recognize():41]DEBUG: Recognized query after filtering is: 
+[2023-10-03 23:56:27,148 recognition.py->recognize():31]DEBUG: *********** started reading data **************
+[2023-10-03 23:56:27,148 recognition.py->recognize():37]DEBUG: *********** started recognizing data **************
+[2023-10-03 23:56:28,371 recognition.py->recognize():39]DEBUG: Recognized query before filtering is: search song on youtube
+[2023-10-03 23:56:28,371 recognition.py->recognize():41]DEBUG: Recognized query after filtering is: 
+[2023-10-03 23:56:28,371 youtube.py->search_song():67]DEBUG: Recognized song keywords: 
+[2023-10-03 23:56:28,371 youtube.py->search_song():69]DEBUG: Recognizer didn't give song result.
+[2023-10-03 23:56:35,636 recognition.py->recognize():31]DEBUG: *********** started reading data **************
+[2023-10-03 23:56:35,636 recognition.py->recognize():37]DEBUG: *********** started recognizing data **************
+[2023-10-03 23:56:37,503 recognition.py->recognize():39]DEBUG: Recognized query before filtering is: fancy shoes by walters
+[2023-10-03 23:56:37,503 recognition.py->recognize():41]DEBUG: Recognized query after filtering is: fancy shoes by walters
+[2023-10-03 23:56:39,070 youtube.py->confidence():40]DEBUG: Youtube search. Title: the walters  fancy shoes and Query: fancy shoes by walters
+[2023-10-03 23:56:39,070 youtube.py->confidence():43]DEBUG: Title chunks: ['the', 'walters', 'fancy', 'shoes']. Query chunks: ['fancy', 'shoes', 'by', 'walters']
+[2023-10-03 23:56:39,071 youtube.py->confidence():50]DEBUG: Search result found. Confidence score: 3 and confidence list: ['fancy', 'shoes', 'walters']
+[2023-10-03 23:56:41,803 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-03 23:56:41,807 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-03 23:59:15,623 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-03 23:59:15,631 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-03 23:59:15,639 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-03 23:59:15,646 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-03 23:59:15,656 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-03 23:59:15,664 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-03 23:59:15,665 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-03 23:59:15,679 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-03 23:59:19,341 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpbzhc9rz5/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.007792 seconds in looped compilation.\n{"text": "set timer for", "likelihood": 0.9598072, "transcribe_seconds": 2.073689919001481, "wav_seconds": 2.656, "tokens": ["set", "timer", "for"], "timeout": false, "intent": {"name": "Timer", "confidence": 1.0}, "entities": [], "raw_text": "set timer for", "recognize_seconds": 0.006783461998566054, "raw_tokens": ["set", "timer", "for"], "speech_confidence": null, "wav_name": null, "slots": {}}\nReady')
+[2023-10-03 23:59:20,264 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'set timer for', 'likelihood': 0.9598072, 'transcribe_seconds': 2.073689919001481, 'wav_seconds': 2.656, 'tokens': ['set', 'timer', 'for'], 'timeout': False, 'intent': {'name': 'Timer', 'confidence': 1.0}, 'entities': [], 'raw_text': 'set timer for', 'recognize_seconds': 0.006783461998566054, 'raw_tokens': ['set', 'timer', 'for'], 'speech_confidence': None, 'wav_name': None, 'slots': {}}
+[2023-10-03 23:59:20,290 voice2intent.py->voice_2_intent():91]INFO: intent is Timer
+[2023-10-03 23:59:23,907 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-03 23:59:24,021 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:00:53,844 playsound.py-><module>():253]WARNING: playsound is relying on another python subprocess. Please use `pip install pygobject` if you want playsound to run more efficiently.
+[2023-10-04 00:00:54,027 custom_skill.py->read_section():69]DEBUG: Reading skill.csv file to dump skills to sections dict.
+[2023-10-04 00:00:54,086 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:00:54,093 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:02:31,833 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-04 00:02:31,839 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:02:31,844 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:02:31,850 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:02:31,856 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:02:31,861 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:02:31,861 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:02:31,955 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:02:34,682 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpji6tut64/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.0081749 seconds in looped compilation.\n{"text": "detect", "likelihood": 0.34516800000000003, "transcribe_seconds": 1.186838795998483, "wav_seconds": 1.728, "tokens": ["detect"], "timeout": false, "intent": {"name": "SearchImage", "confidence": 1.0}, "entities": [{"entity": "action", "value": "detect", "raw_value": "what is this", "source": "", "start": 0, "raw_start": 0, "end": 6, "raw_end": 12, "tokens": ["detect"], "raw_tokens": ["what", "is", "this"]}], "raw_text": "what is this", "recognize_seconds": 0.0031535119996988215, "raw_tokens": ["what", "is", "this"], "speech_confidence": null, "wav_name": null, "slots": {"action": "detect"}}\nReady')
+[2023-10-04 00:02:35,576 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'detect', 'likelihood': 0.34516800000000003, 'transcribe_seconds': 1.186838795998483, 'wav_seconds': 1.728, 'tokens': ['detect'], 'timeout': False, 'intent': {'name': 'SearchImage', 'confidence': 1.0}, 'entities': [{'entity': 'action', 'value': 'detect', 'raw_value': 'what is this', 'source': '', 'start': 0, 'raw_start': 0, 'end': 6, 'raw_end': 12, 'tokens': ['detect'], 'raw_tokens': ['what', 'is', 'this']}], 'raw_text': 'what is this', 'recognize_seconds': 0.0031535119996988215, 'raw_tokens': ['what', 'is', 'this'], 'speech_confidence': None, 'wav_name': None, 'slots': {'action': 'detect'}}
+[2023-10-04 00:02:35,586 voice2intent.py->voice_2_intent():91]INFO: intent is SearchImage
+[2023-10-04 00:03:34,590 playsound.py-><module>():253]WARNING: playsound is relying on another python subprocess. Please use `pip install pygobject` if you want playsound to run more efficiently.
+[2023-10-04 00:03:34,743 custom_skill.py->read_section():69]DEBUG: Reading skill.csv file to dump skills to sections dict.
+[2023-10-04 00:03:34,794 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:03:34,799 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:03:37,144 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-04 00:03:37,150 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:03:37,154 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:03:37,157 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:03:37,161 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:03:37,165 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:03:37,165 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:03:37,239 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:03:47,448 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmp6_w83tuk/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00778699 seconds in looped compilation.\n{"text": "know the today weather", "likelihood": 0.8202579999999999, "transcribe_seconds": 8.654075168000418, "wav_seconds": 9.12, "tokens": [], "timeout": false, "intent": {"name": "", "confidence": 0}, "entities": [], "raw_text": "know the today weather", "recognize_seconds": 0, "raw_tokens": [], "speech_confidence": null, "wav_name": null, "slots": {}}\nReady')
+[2023-10-04 00:03:48,362 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'know the today weather', 'likelihood': 0.8202579999999999, 'transcribe_seconds': 8.654075168000418, 'wav_seconds': 9.12, 'tokens': [], 'timeout': False, 'intent': {'name': '', 'confidence': 0}, 'entities': [], 'raw_text': 'know the today weather', 'recognize_seconds': 0, 'raw_tokens': [], 'speech_confidence': None, 'wav_name': None, 'slots': {}}
+[2023-10-04 00:03:48,374 voice2intent.py->voice_2_intent():91]INFO: intent is 
+[2023-10-04 00:03:53,224 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:03:53,228 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:04:00,807 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-04 00:04:00,816 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:04:00,823 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:04:00,830 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:04:00,836 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:04:00,842 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:04:00,843 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:04:00,898 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:04:04,097 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmp1fwffw7y/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00736403 seconds in looped compilation.\n{"text": "set timer for me", "likelihood": 0.826236, "transcribe_seconds": 1.7618190650027827, "wav_seconds": 2.24, "tokens": ["set", "timer", "for", "me"], "timeout": false, "intent": {"name": "Timer", "confidence": 1.0}, "entities": [], "raw_text": "set timer for me", "recognize_seconds": 0.006794687004003208, "raw_tokens": ["set", "timer", "for", "me"], "speech_confidence": null, "wav_name": null, "slots": {}}\nReady')
+[2023-10-04 00:04:05,007 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'set timer for me', 'likelihood': 0.826236, 'transcribe_seconds': 1.7618190650027827, 'wav_seconds': 2.24, 'tokens': ['set', 'timer', 'for', 'me'], 'timeout': False, 'intent': {'name': 'Timer', 'confidence': 1.0}, 'entities': [], 'raw_text': 'set timer for me', 'recognize_seconds': 0.006794687004003208, 'raw_tokens': ['set', 'timer', 'for', 'me'], 'speech_confidence': None, 'wav_name': None, 'slots': {}}
+[2023-10-04 00:04:05,021 voice2intent.py->voice_2_intent():91]INFO: intent is Timer
+[2023-10-04 00:04:08,249 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:04:08,278 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:05:29,145 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-04 00:05:29,153 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:05:29,161 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:05:29,168 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:05:29,175 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:05:29,182 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:05:29,182 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:05:29,241 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:05:32,432 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpktna_l2d/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00774002 seconds in looped compilation.\nReady\n{"text": "tell me the weather", "likelihood": 0, "transcribe_seconds": 1.7621819380001398, "wav_seconds": 2.336, "tokens": ["tell", "me", "the", "weather"], "timeout": false, "intent": {"name": "CheckWeather", "confidence": 0.25}, "entities": [], "raw_text": "tell me the weather outside in my", "recognize_seconds": 0.0077309580010478385, "raw_tokens": ["tell", "me", "the", "weather"], "speech_confidence": null, "wav_name": null, "slots": {}}')
+[2023-10-04 00:05:33,343 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'tell me the weather', 'likelihood': 0, 'transcribe_seconds': 1.7621819380001398, 'wav_seconds': 2.336, 'tokens': ['tell', 'me', 'the', 'weather'], 'timeout': False, 'intent': {'name': 'CheckWeather', 'confidence': 0.25}, 'entities': [], 'raw_text': 'tell me the weather outside in my', 'recognize_seconds': 0.0077309580010478385, 'raw_tokens': ['tell', 'me', 'the', 'weather'], 'speech_confidence': None, 'wav_name': None, 'slots': {}}
+[2023-10-04 00:05:33,358 voice2intent.py->voice_2_intent():91]INFO: intent is CheckWeather
+[2023-10-04 00:05:46,836 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:05:46,871 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:06:05,331 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-04 00:06:05,340 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:06:05,349 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:06:05,356 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:06:05,362 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:06:05,369 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:06:05,369 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:06:05,431 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:06:08,620 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpu525sazx/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00983596 seconds in looped compilation.\n{"text": "what the date", "likelihood": 0.5141450000000001, "transcribe_seconds": 1.7771118329983437, "wav_seconds": 2.24, "tokens": ["what", "the", "date"], "timeout": false, "intent": {"name": "Date", "confidence": 0.9666666666666667}, "entities": [], "raw_text": "what is the date", "recognize_seconds": 0.0059520060021895915, "raw_tokens": ["what", "the", "date"], "speech_confidence": null, "wav_name": null, "slots": {}}\nReady')
+[2023-10-04 00:06:09,527 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'what the date', 'likelihood': 0.5141450000000001, 'transcribe_seconds': 1.7771118329983437, 'wav_seconds': 2.24, 'tokens': ['what', 'the', 'date'], 'timeout': False, 'intent': {'name': 'Date', 'confidence': 0.9666666666666667}, 'entities': [], 'raw_text': 'what is the date', 'recognize_seconds': 0.0059520060021895915, 'raw_tokens': ['what', 'the', 'date'], 'speech_confidence': None, 'wav_name': None, 'slots': {}}
+[2023-10-04 00:06:09,542 voice2intent.py->voice_2_intent():91]INFO: intent is Date
+[2023-10-04 00:06:13,197 date_time.py->get_date():12]DEBUG: The date is: ['04', '10', '2023']
+[2023-10-04 00:06:13,197 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:06:13,202 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:06:42,823 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-04 00:06:42,831 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:06:42,839 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:06:42,847 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:06:42,854 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:06:42,860 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:06:42,860 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:06:42,880 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:06:45,401 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpnnmhumgf/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00753212 seconds in looped compilation.\n{"text": "increase volume", "likelihood": 0.999334402, "transcribe_seconds": 1.1111605350015452, "wav_seconds": 1.664, "tokens": ["increase", "volume"], "timeout": false, "intent": {"name": "Volume", "confidence": 1.0}, "entities": [{"entity": "action", "value": "increase", "raw_value": "increase", "source": "", "start": 0, "raw_start": 0, "end": 8, "raw_end": 8, "tokens": ["increase"], "raw_tokens": ["increase"]}], "raw_text": "increase volume", "recognize_seconds": 0.0036611030009225942, "raw_tokens": ["increase", "volume"], "speech_confidence": null, "wav_name": null, "slots": {"action": "increase"}}\nReady')
+[2023-10-04 00:06:46,302 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'increase volume', 'likelihood': 0.999334402, 'transcribe_seconds': 1.1111605350015452, 'wav_seconds': 1.664, 'tokens': ['increase', 'volume'], 'timeout': False, 'intent': {'name': 'Volume', 'confidence': 1.0}, 'entities': [{'entity': 'action', 'value': 'increase', 'raw_value': 'increase', 'source': '', 'start': 0, 'raw_start': 0, 'end': 8, 'raw_end': 8, 'tokens': ['increase'], 'raw_tokens': ['increase']}], 'raw_text': 'increase volume', 'recognize_seconds': 0.0036611030009225942, 'raw_tokens': ['increase', 'volume'], 'speech_confidence': None, 'wav_name': None, 'slots': {'action': 'increase'}}
+[2023-10-04 00:06:46,314 voice2intent.py->voice_2_intent():91]INFO: intent is Volume
+[2023-10-04 00:06:48,384 volume.py->_set_volume():12]DEBUG: volunw is: 20%+
+[2023-10-04 00:06:48,397 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:06:48,419 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:06:55,586 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-04 00:06:55,594 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:06:55,601 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:06:55,607 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:06:55,614 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:06:55,622 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:06:55,622 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:06:55,633 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:06:58,104 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpnp6jiy6k/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00749302 seconds in looped compilation.\n{"text": "increase volume", "likelihood": 0.619382, "transcribe_seconds": 0.9750499090005178, "wav_seconds": 1.504, "tokens": ["increase", "volume"], "timeout": false, "intent": {"name": "Volume", "confidence": 1.0}, "entities": [{"entity": "action", "value": "increase", "raw_value": "raise", "source": "", "start": 0, "raw_start": 0, "end": 8, "raw_end": 5, "tokens": ["increase"], "raw_tokens": ["raise"]}], "raw_text": "raise volume", "recognize_seconds": 0.0034474089989089407, "raw_tokens": ["raise", "volume"], "speech_confidence": null, "wav_name": null, "slots": {"action": "increase"}}\nReady')
+[2023-10-04 00:06:59,011 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'increase volume', 'likelihood': 0.619382, 'transcribe_seconds': 0.9750499090005178, 'wav_seconds': 1.504, 'tokens': ['increase', 'volume'], 'timeout': False, 'intent': {'name': 'Volume', 'confidence': 1.0}, 'entities': [{'entity': 'action', 'value': 'increase', 'raw_value': 'raise', 'source': '', 'start': 0, 'raw_start': 0, 'end': 8, 'raw_end': 5, 'tokens': ['increase'], 'raw_tokens': ['raise']}], 'raw_text': 'raise volume', 'recognize_seconds': 0.0034474089989089407, 'raw_tokens': ['raise', 'volume'], 'speech_confidence': None, 'wav_name': None, 'slots': {'action': 'increase'}}
+[2023-10-04 00:06:59,026 voice2intent.py->voice_2_intent():91]INFO: intent is Volume
+[2023-10-04 00:07:00,693 volume.py->_set_volume():12]DEBUG: volunw is: 20%+
+[2023-10-04 00:07:00,708 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:07:00,713 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:07:07,536 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-04 00:07:07,547 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:07:07,558 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:07:07,566 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:07:07,574 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:07:07,582 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:07:07,582 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:07:07,594 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:07:11,186 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmp2ohssu2u/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.0076201 seconds in looped compilation.\n{"text": "increase volume me", "likelihood": 0, "transcribe_seconds": 2.0528998900044826, "wav_seconds": 2.688, "tokens": ["increase", "volume", "me"], "timeout": false, "intent": {"name": "Volume", "confidence": 0.9666666666666667}, "entities": [{"entity": "action", "value": "increase", "raw_value": "increase", "source": "", "start": 0, "raw_start": 0, "end": 8, "raw_end": 8, "tokens": ["increase"], "raw_tokens": ["increase"]}], "raw_text": "increase volume to me", "recognize_seconds": 0.0037539119948633015, "raw_tokens": ["increase", "volume", "me"], "speech_confidence": null, "wav_name": null, "slots": {"action": "increase"}}\nReady')
+[2023-10-04 00:07:12,090 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'increase volume me', 'likelihood': 0, 'transcribe_seconds': 2.0528998900044826, 'wav_seconds': 2.688, 'tokens': ['increase', 'volume', 'me'], 'timeout': False, 'intent': {'name': 'Volume', 'confidence': 0.9666666666666667}, 'entities': [{'entity': 'action', 'value': 'increase', 'raw_value': 'increase', 'source': '', 'start': 0, 'raw_start': 0, 'end': 8, 'raw_end': 8, 'tokens': ['increase'], 'raw_tokens': ['increase']}], 'raw_text': 'increase volume to me', 'recognize_seconds': 0.0037539119948633015, 'raw_tokens': ['increase', 'volume', 'me'], 'speech_confidence': None, 'wav_name': None, 'slots': {'action': 'increase'}}
+[2023-10-04 00:07:12,122 voice2intent.py->voice_2_intent():91]INFO: intent is Volume
+[2023-10-04 00:07:14,091 volume.py->_set_volume():12]DEBUG: volunw is: 20%+
+[2023-10-04 00:07:14,101 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:07:14,106 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:07:26,299 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-04 00:07:26,307 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:07:26,314 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:07:26,322 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:07:26,331 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:07:26,342 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:07:26,342 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:07:26,352 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:07:29,959 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmplh6ye5ng/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00771904 seconds in looped compilation.\nReady\n{"text": "minute one seconds for", "likelihood": 0, "transcribe_seconds": 2.1068749830010347, "wav_seconds": 2.624, "tokens": [], "timeout": false, "intent": {"name": "", "confidence": 0}, "entities": [], "raw_text": "minute one seconds for", "recognize_seconds": 0, "raw_tokens": [], "speech_confidence": null, "wav_name": null, "slots": {}}')
+[2023-10-04 00:07:30,863 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'minute one seconds for', 'likelihood': 0, 'transcribe_seconds': 2.1068749830010347, 'wav_seconds': 2.624, 'tokens': [], 'timeout': False, 'intent': {'name': '', 'confidence': 0}, 'entities': [], 'raw_text': 'minute one seconds for', 'recognize_seconds': 0, 'raw_tokens': [], 'speech_confidence': None, 'wav_name': None, 'slots': {}}
+[2023-10-04 00:07:30,874 voice2intent.py->voice_2_intent():91]INFO: intent is 
+[2023-10-04 00:07:35,039 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:07:35,044 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:08:08,381 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: ok google
+[2023-10-04 00:08:08,391 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:08:08,399 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:08:08,408 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:08:08,416 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:08:08,424 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:08:08,425 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:08:08,444 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:08:11,532 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpb172e90n/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00745296 seconds in looped compilation.\n{"text": "increase volume to 100", "likelihood": 1.0, "transcribe_seconds": 1.6413990660003037, "wav_seconds": 2.144, "tokens": ["increase", "volume", "to", 100], "timeout": false, "intent": {"name": "Volume", "confidence": 1.0}, "entities": [{"entity": "sound", "value": 100, "raw_value": "one hundred", "source": "rhasspy/number", "start": 19, "raw_start": 19, "end": 22, "raw_end": 30, "tokens": [100], "raw_tokens": ["one", "hundred"]}], "raw_text": "increase volume to one hundred", "recognize_seconds": 0.005293677000736352, "raw_tokens": ["increase", "volume", "to", "one", "hundred"], "speech_confidence": null, "wav_name": null, "slots": {"sound": 100}}\nReady')
+[2023-10-04 00:08:12,442 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'increase volume to 100', 'likelihood': 1.0, 'transcribe_seconds': 1.6413990660003037, 'wav_seconds': 2.144, 'tokens': ['increase', 'volume', 'to', 100], 'timeout': False, 'intent': {'name': 'Volume', 'confidence': 1.0}, 'entities': [{'entity': 'sound', 'value': 100, 'raw_value': 'one hundred', 'source': 'rhasspy/number', 'start': 19, 'raw_start': 19, 'end': 22, 'raw_end': 30, 'tokens': [100], 'raw_tokens': ['one', 'hundred']}], 'raw_text': 'increase volume to one hundred', 'recognize_seconds': 0.005293677000736352, 'raw_tokens': ['increase', 'volume', 'to', 'one', 'hundred'], 'speech_confidence': None, 'wav_name': None, 'slots': {'sound': 100}}
+[2023-10-04 00:08:12,450 voice2intent.py->voice_2_intent():91]INFO: intent is Volume
+[2023-10-04 00:08:12,466 voice2intent.py->voice_2_intent():200]DEBUG: Current sound level: amixer: Unable to find simple control 'Master',0
+ and User input volume: 100
+[2023-10-04 00:08:12,467 __main__.py-><module>():26]ERROR: Exception occurred in program. Full exception: invalid literal for int() with base 10: "amixer: Unable to find simple control 'Master',0\n"
+Traceback (most recent call last):
+  File "/home/abhishek/Downloads/BABY/BABY-main/./__main__.py", line 21, in <module>
+    voice_2_intent()
+  File "/home/abhishek/Downloads/BABY/BABY-main/./voice2intent.py", line 201, in voice_2_intent
+    if int(curr_sound) < int(value):
+ValueError: invalid literal for int() with base 10: "amixer: Unable to find simple control 'Master',0\n"
+[2023-10-04 00:08:57,615 playsound.py-><module>():253]WARNING: playsound is relying on another python subprocess. Please use `pip install pygobject` if you want playsound to run more efficiently.
+[2023-10-04 00:08:57,743 custom_skill.py->read_section():69]DEBUG: Reading skill.csv file to dump skills to sections dict.
+[2023-10-04 00:08:57,785 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:08:57,791 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:09:09,986 picovoice.py->detect_wake_word():38]DEBUG: Detected keyword is: hey liva
+[2023-10-04 00:09:09,990 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:09:09,992 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:09:09,996 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:09:09,999 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:09:10,002 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:09:10,003 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:09:10,084 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:09:14,740 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpgqgvtvog/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00817299 seconds in looped compilation.\n{"text": "", "likelihood": 0.797474, "transcribe_seconds": 2.465618510999775, "wav_seconds": 3.712, "tokens": [], "timeout": false, "intent": {"name": "", "confidence": 0}, "entities": [], "raw_text": "", "recognize_seconds": 0, "raw_tokens": [], "speech_confidence": null, "wav_name": null, "slots": {}}\nReady')
+[2023-10-04 00:09:15,654 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': '', 'likelihood': 0.797474, 'transcribe_seconds': 2.465618510999775, 'wav_seconds': 3.712, 'tokens': [], 'timeout': False, 'intent': {'name': '', 'confidence': 0}, 'entities': [], 'raw_text': '', 'recognize_seconds': 0, 'raw_tokens': [], 'speech_confidence': None, 'wav_name': None, 'slots': {}}
+[2023-10-04 00:09:15,666 voice2intent.py->voice_2_intent():91]INFO: intent is None
+[2023-10-04 00:09:15,667 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:09:15,673 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:09:22,907 picovoice.py->detect_wake_word():38]DEBUG: Detected keyword is: hey liva
+[2023-10-04 00:09:22,916 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:09:22,921 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:09:22,927 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:09:22,932 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:09:22,937 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:09:22,937 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:09:22,948 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:09:25,912 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpntiqsxlh/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00836802 seconds in looped compilation.\n{"text": "increase brightness", "likelihood": 0.9876584, "transcribe_seconds": 0.8198740939988056, "wav_seconds": 2.016, "tokens": ["increase", "brightness"], "timeout": false, "intent": {"name": "Brightness", "confidence": 1.0}, "entities": [{"entity": "action", "value": "increase", "raw_value": "increase", "source": "", "start": 0, "raw_start": 0, "end": 8, "raw_end": 8, "tokens": ["increase"], "raw_tokens": ["increase"]}], "raw_text": "increase brightness", "recognize_seconds": 0.007486916998459492, "raw_tokens": ["increase", "brightness"], "speech_confidence": null, "wav_name": null, "slots": {"action": "increase"}}\nReady')
+[2023-10-04 00:09:26,814 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'increase brightness', 'likelihood': 0.9876584, 'transcribe_seconds': 0.8198740939988056, 'wav_seconds': 2.016, 'tokens': ['increase', 'brightness'], 'timeout': False, 'intent': {'name': 'Brightness', 'confidence': 1.0}, 'entities': [{'entity': 'action', 'value': 'increase', 'raw_value': 'increase', 'source': '', 'start': 0, 'raw_start': 0, 'end': 8, 'raw_end': 8, 'tokens': ['increase'], 'raw_tokens': ['increase']}], 'raw_text': 'increase brightness', 'recognize_seconds': 0.007486916998459492, 'raw_tokens': ['increase', 'brightness'], 'speech_confidence': None, 'wav_name': None, 'slots': {'action': 'increase'}}
+[2023-10-04 00:09:26,826 voice2intent.py->voice_2_intent():91]INFO: intent is Brightness
+[2023-10-04 00:09:26,827 voice2intent.py->voice_2_intent():103]INFO: {'action': 'increase'}
+[2023-10-04 00:09:28,949 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:09:28,960 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 00:09:49,488 picovoice.py->detect_wake_word():38]DEBUG: Detected keyword is: hey liva
+[2023-10-04 00:09:49,498 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 00:09:49,506 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 00:09:49,512 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 00:09:49,519 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 00:09:49,525 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 00:09:49,526 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 00:09:49,542 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 00:09:53,478 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpktsy645b/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.00929213 seconds in looped compilation.\n{"text": "decrease brightness", "likelihood": 1.0, "transcribe_seconds": 1.7019171379943145, "wav_seconds": 3.072, "tokens": ["decrease", "brightness"], "timeout": false, "intent": {"name": "Brightness", "confidence": 1.0}, "entities": [{"entity": "action", "value": "decrease", "raw_value": "decrease", "source": "", "start": 0, "raw_start": 0, "end": 8, "raw_end": 8, "tokens": ["decrease"], "raw_tokens": ["decrease"]}], "raw_text": "decrease brightness", "recognize_seconds": 0.0053084579994902015, "raw_tokens": ["decrease", "brightness"], "speech_confidence": null, "wav_name": null, "slots": {"action": "decrease"}}\nReady')
+[2023-10-04 00:09:54,398 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'decrease brightness', 'likelihood': 1.0, 'transcribe_seconds': 1.7019171379943145, 'wav_seconds': 3.072, 'tokens': ['decrease', 'brightness'], 'timeout': False, 'intent': {'name': 'Brightness', 'confidence': 1.0}, 'entities': [{'entity': 'action', 'value': 'decrease', 'raw_value': 'decrease', 'source': '', 'start': 0, 'raw_start': 0, 'end': 8, 'raw_end': 8, 'tokens': ['decrease'], 'raw_tokens': ['decrease']}], 'raw_text': 'decrease brightness', 'recognize_seconds': 0.0053084579994902015, 'raw_tokens': ['decrease', 'brightness'], 'speech_confidence': None, 'wav_name': None, 'slots': {'action': 'decrease'}}
+[2023-10-04 00:09:54,410 voice2intent.py->voice_2_intent():91]INFO: intent is Brightness
+[2023-10-04 00:09:54,411 voice2intent.py->voice_2_intent():103]INFO: {'action': 'decrease'}
+[2023-10-04 00:09:56,739 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 00:09:56,747 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
+[2023-10-04 10:39:44,225 picovoice.py->detect_wake_word():33]DEBUG: Detected keyword is: alexa
+[2023-10-04 10:39:44,235 pre_checks.py->check_installation():34]DEBUG: /usr/bin/voice2json is installed.
+[2023-10-04 10:39:44,244 pre_checks.py->check_installation():34]DEBUG: /usr/bin/arecord is installed.
+[2023-10-04 10:39:44,253 pre_checks.py->check_installation():34]DEBUG: /usr/bin/play is installed.
+[2023-10-04 10:39:44,261 pre_checks.py->check_installation():32]ERROR: xclip is not installed or not in path
+NoneType: None
+[2023-10-04 10:39:44,269 pre_checks.py->check_installation():34]DEBUG: /usr/bin/kdeconnect-cli is installed.
+[2023-10-04 10:39:44,269 pre_checks.py->pre_checks():87]ERROR: Some non-mandatory modules are not installed. Some skills might not work
+NoneType: None
+[2023-10-04 10:39:44,288 voice2intent.py->record_analyse():42]INFO: Recording voice
+[2023-10-04 10:39:47,524 voice2intent.py->record_analyse():50]DEBUG: Voice2json raw output: (0, '/usr/lib/voice2json/lib/kaldi/online2-cli-nnet3-decode-faster-confidence --config=/home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/online/conf/online.conf --frame-subsampling-factor=3 --max-active=7000 --lattice-beam=8.0 --acoustic-scale=1.0 --beam=24.0 /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/model/final.mdl /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/HCLG.fst /home/abhishek/.local/share/voice2json/en-us_kaldi-zamia/acoustic_model/graph/words.txt /tmp/tmpvzxyrc83/chunks.fifo \nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:ComputeDerivedVars():ivector-extractor.cc:204) Done.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2\nLOG (online2-cli-nnet3-decode-faster-confidence[5.5]:CompileLooped():nnet-compile-looped.cc:345) Spent 0.010385 seconds in looped compilation.\n{"text": "nine minute and thirty seconds", "likelihood": 0, "transcribe_seconds": 1.7470003019989235, "wav_seconds": 2.112, "tokens": [], "timeout": false, "intent": {"name": "", "confidence": 0}, "entities": [], "raw_text": "nine minute and thirty seconds", "recognize_seconds": 0, "raw_tokens": [], "speech_confidence": null, "wav_name": null, "slots": {}}\nReady')
+[2023-10-04 10:39:48,431 voice2intent.py->record_analyse():62]INFO: Generated voice command: {'text': 'nine minute and thirty seconds', 'likelihood': 0, 'transcribe_seconds': 1.7470003019989235, 'wav_seconds': 2.112, 'tokens': [], 'timeout': False, 'intent': {'name': '', 'confidence': 0}, 'entities': [], 'raw_text': 'nine minute and thirty seconds', 'recognize_seconds': 0, 'raw_tokens': [], 'speech_confidence': None, 'wav_name': None, 'slots': {}}
+[2023-10-04 10:39:48,446 voice2intent.py->voice_2_intent():91]INFO: intent is 
+[2023-10-04 10:39:53,610 wake_word.py->detect_wake_word():23]DEBUG: Using method=picovoice to detect wake word
+[2023-10-04 10:39:53,618 picovoice.py->detect_wake_word():26]DEBUG: *********** Starting Recording and checking for waking word ************
